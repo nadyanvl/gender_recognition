@@ -110,17 +110,17 @@ Pada tahap ini, dilakukan pelatihan dan optimasi model menggunakan beberapa arsi
 
 ##### 📚 ResNet50
 
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/ResNet50.png" alt="ResNet50" width="800" height="400">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/ResNet50.png" alt="ResNet50" width="800" height="400">
 
 
 ##### 📚 ResNet101
 
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/ResNet101.png" alt="ResNet101" width="800" height="400">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/ResNet101.png" alt="ResNet101" width="800" height="400">
 
 
 ##### 📚 GoogleNet
 
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/GoogleNet.png" alt="GoogleNet" width="800" height="400">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/GoogleNet.png" alt="GoogleNet" width="800" height="400">
 
 
 #### * Evaluasi Model
