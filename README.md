@@ -34,8 +34,8 @@ Dataset diambil dari CelebA (Celebrity Faces Attributes), Dataset merupakan kump
 ##### Data management
 
 <p align="center">
-  <img src="https://github.com/triwahyupra/project1_gender_recognition/blob/8be4b6839907b2f4a92097f0976f0495ec0e594d/thumbnail%20picture/Sebaran%20Data%20Gender.png" alt="Grafik Sebaran Data" width="400" height="300" style="margin-right: 20px; margin-bottom: 10px;" />
-  <img src="https://github.com/triwahyupra/project1_gender_recognition/blob/8be4b6839907b2f4a92097f0976f0495ec0e594d/thumbnail%20picture/Data%20Splitting.png" alt="Data Split" width="500" height="300" />
+  <img src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/Data%20Distribution.png" alt="Grafik Sebaran Data" width="400" height="300" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/Data%20Splitting.png" alt="Data Split" width="500" height="300" />
 </p>
 
 
@@ -102,11 +102,11 @@ Pada tahap ini, dilakukan pelatihan dan optimasi model menggunakan beberapa arsi
 
 ##### 📚 VGG16 
 
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/VGG16.png" alt="VGG16" width="800" height="400">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/VGG16.png" alt="VGG16" width="800" height="400">
 
 ##### 📚 VGG19
 
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/VGG19.png" alt="VGG19" width="800" height="400">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/VGG19.png" alt="VGG19" width="800" height="400">
 
 ##### 📚 ResNet50
 
@@ -166,13 +166,13 @@ Pada tahap ini, waktu inference dari setiap model diperhitungkan untuk membandin
 ### Prediction Results on Test Data
 Berikut adalah beberapa gambar yang diambil dari data tes dan kemudian dilakukan prediksi gender menggunakan model terbaiik dari segi akurasi tertinggi dan inference time tercepat yaitu ResNet101 :
 
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/predict%20data%20test.png" alt="Predict Test" width="1000" height="800">
+<img align="center" src="https://github.com/nadyanvl/gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/predict%20data%20test.png" alt="Predict Test" width="1000" height="800">
 
 ### Real World Application : [(DEPLOYMENT)](https://s.id/GenderRecog)
 
 Pada tahap ini, kita akan mendeploy model ResNet101 menggunakan Gradio in HuggingFace untuk menyajikan antarmuka pengguna yang sederhana untuk penggunaan model. Gradio menyediakan cara mudah untuk membangun antarmuka pengguna interaktif untuk model machine learning. Dengan menggunakan Gradio in HuggingFace, kita dapat dengan mudah membuat antarmuka yang intuitif, memberikan prediksi gender secara langsung melalui antarmuka web yang dapat diakses pada link diatas. Dibawah ini merupakan tampilan hasil dari prediksi gender secara real :
 
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/deploy.png" alt="Deployment" width="1000" height="500">
+<img align="center" src="https://github.com/nadyanvl/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/deploy.png" alt="Deployment" width="1000" height="500">
 
 
 Project ini dikerjakan secara kolaboratif oleh kelompok CV D -Alan Turing, Beberapa Notebook yang dikerjakan oleh anggota Tim dapat diakses pada [FOLDER NOTEBOOK](https://github.com/triwahyupra/project1_gender_recognition/tree/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/notebook)
