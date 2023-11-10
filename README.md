@@ -130,7 +130,7 @@ Setelah pelatihan, model dievaluasi menggunakan dataset validasi untuk mengukur 
 #### * Tabel Validation Accuracy
 
 Berikut adalah tabel yang menunjukkan data akurasi validasi dari setiap arsitektur model:
-<img align="center" src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/val%20accuracy.png" alt="val accuracy" width="1000" height="500">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/val%20accuracy.png" alt="val accuracy" width="1000" height="500">
 
 ## ★ The Results
 
@@ -139,8 +139,8 @@ Berikut adalah tabel yang menunjukkan data akurasi validasi dari setiap arsitekt
 Pada tahap ini, hasil pengujian model dari setiap algoritma dari fine tuning dan transfer learning dibandingkan untuk mendapatkan pemahaman yang lebih baik tentang kinerja relatif masing-masing model. Grafik di bawah ini memvisualisasikan hasil pengujian dari setiap algoritma pada dataset CelebA. Data yang diukur adalah akurasi test pada setiap algoritma selama pengujian. 
 
 <p align="center">
-  <img src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/Model%20Accuraacy%20Fine%20Tuning.png" alt="Grafik accuracy fine tuning" width="500" height="400" style="margin-right: 20px; margin-bottom: 10px;" />
-  <img src="https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/Model%20Accuracy%20Transfer%20Learning.png" alt="Grafik accuracy transfer learning" width="500" height="400" />
+  <img src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/Model%20Accuraacy%20Fine%20Tuning.png" alt="Grafik accuracy fine tuning" width="500" height="400" style="margin-right: 20px; margin-bottom: 10px;" />
+  <img src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/Model%20Accuracy%20Transfer%20Learning.png" alt="Grafik accuracy transfer learning" width="500" height="400" />
 </p>
 
 Dari hasil train dan evaluation, terlihat bahwa ResNet101 mencapai akurasi validasi tertinggi, menunjukkan bahwa arsitektur ini mungkin merupakan pilihan yang baik untuk tugas klasifikasi pada dataset CelebA.
@@ -172,7 +172,7 @@ Berikut adalah beberapa gambar yang diambil dari data tes dan kemudian dilakukan
 
 Pada tahap ini, kita akan mendeploy model ResNet101 menggunakan Gradio in HuggingFace untuk menyajikan antarmuka pengguna yang sederhana untuk penggunaan model. Gradio menyediakan cara mudah untuk membangun antarmuka pengguna interaktif untuk model machine learning. Dengan menggunakan Gradio in HuggingFace, kita dapat dengan mudah membuat antarmuka yang intuitif, memberikan prediksi gender secara langsung melalui antarmuka web yang dapat diakses pada link diatas. Dibawah ini merupakan tampilan hasil dari prediksi gender secara real :
 
-<img align="center" src="https://github.com/nadyanvl/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/deploy.png" alt="Deployment" width="1000" height="500">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/deploy.png" alt="Deployment" width="1000" height="500">
 
 
 Project ini dikerjakan secara kolaboratif oleh kelompok CV D -Alan Turing, Beberapa Notebook yang dikerjakan oleh anggota Tim dapat diakses pada [FOLDER NOTEBOOK](https://github.com/triwahyupra/project1_gender_recognition/tree/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/notebook)
