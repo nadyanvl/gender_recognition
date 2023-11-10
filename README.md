@@ -175,6 +175,6 @@ Pada tahap ini, kita akan mendeploy model ResNet101 menggunakan Gradio in Huggin
 <img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/deploy.png" alt="Deployment" width="1000" height="500">
 
 
-Project ini dikerjakan secara kolaboratif oleh kelompok CV D -Alan Turing, Beberapa Notebook yang dikerjakan oleh anggota Tim dapat diakses pada [FOLDER NOTEBOOK](https://github.com/triwahyupra/project1_gender_recognition/tree/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/notebook)
+Project ini dikerjakan secara kolaboratif oleh kelompok CV D -Alan Turing, Beberapa Notebook yang dikerjakan oleh anggota Tim dapat diakses pada [FOLDER NOTEBOOK](https://github.com/nadyanvl/gender_recognition/tree/main/notebook)
 
-Dan notebook utama yang digunakan untuk merangkum performa setiap model dapat diakses pada [NOTEBOOK UTAMA](https://github.com/triwahyupra/project1_gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/notebook/Satriaji/Satriaji_project1.ipynb)
+Dan notebook utama yang digunakan untuk merangkum performa setiap model dapat diakses pada [NOTEBOOK UTAMA](https://github.com/nadyanvl/gender_recognition/blob/main/notebook/Satriaji/Satriaji_project1.ipynb)
