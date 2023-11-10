@@ -166,7 +166,7 @@ Pada tahap ini, waktu inference dari setiap model diperhitungkan untuk membandin
 ### Prediction Results on Test Data
 Berikut adalah beberapa gambar yang diambil dari data tes dan kemudian dilakukan prediksi gender menggunakan model terbaiik dari segi akurasi tertinggi dan inference time tercepat yaitu ResNet101 :
 
-<img align="center" src="https://github.com/nadyanvl/gender_recognition/blob/df3e10c2b33c36dbb0a8d52f278c9688f75ddbff/thumbnail%20picture/predict%20data%20test.png" alt="Predict Test" width="1000" height="800">
+<img align="center" src="https://raw.githubusercontent.com/nadyanvl/gender_recognition/main/assets/predict%20data%20test.png" alt="Predict Test" width="1000" height="800">
 
 ### Real World Application : [(DEPLOYMENT)](https://s.id/GenderRecog)
 
